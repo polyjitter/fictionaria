@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Chatter
+GenericName=Chat Client
+Comment=A simple Matrix client for elementary os
+Categories=Internet;
+Exec=com.github.polyjutter.chatter
+Icon=application-default-icon
+Terminal=false
+Type=Application 
+Keywords=Matrix;Chat;Chatter;Riot
