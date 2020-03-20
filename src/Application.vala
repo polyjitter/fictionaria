@@ -23,7 +23,7 @@ public class MyApp : Gtk.Application {
 
     public MyApp () {
         Object (
-            application_id: "com.github.polyjitter.chatter",
+            application_id: "com.github.polyjitter.fictionaria",
             flags: ApplicationFlags.FLAGS_NONE
         );
     }

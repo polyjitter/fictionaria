@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Fictionaria
+GenericName=Interactive Fiction Jukebox
+Comment=An elegant Interactive Fiction player and browser.
+Categories=Internet;Games;
+Exec=com.github.polyjitter.fictionaria
+Icon=application-default-icon
+Terminal=false
+Type=Application 
+Keywords=IF;Fiction;Interactive;Fictionaria;Story

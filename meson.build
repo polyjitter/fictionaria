@@ -1,5 +1,5 @@
 # project name and programming language
-project('com.github.polyjitter.chatter', 'vala', 'c')
+project('com.github.polyjitter.fictionaria', 'vala', 'c')
 
 # Include the translations module
 i18n = import('i18n')
