@@ -1,5 +1,5 @@
 # project name and programming language
-project('com.github.polyjitter.fictionaria', 'vala', 'c')
+project('com.github.polyjitter.fictionaria', 'rust', 'c')
 
 # Include the translations module
 i18n = import('i18n')
@@ -10,7 +10,7 @@ add_global_arguments('-DGETTEXT_PACKAGE="@0@"'.format (meson.project_name()), la
 # Create a new executable, list the files we want to compile, list the dependencies we need, and install
 executable(
     meson.project_name(),
-    'src/Application.vala',
+    'src/main.rs',
     dependencies: [
         dependency('gtk+-3.0')
     ],

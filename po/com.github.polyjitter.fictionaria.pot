@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.github.polyjitter.fictionaria\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-20 19:31-0400\n"
+"POT-Creation-Date: 2020-03-20 20:04-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,12 +17,16 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/Application.vala:32
-msgid "Click me!"
+#: src/Application.vala:36
+msgid "Hello World"
 msgstr ""
 
-#: src/Application.vala:37
-msgid "Hello World"
+#: src/Application.vala:41
+msgid "Label 1"
+msgstr ""
+
+#: src/Application.vala:42
+msgid "Label 2"
 msgstr ""
 
 #: data/com.github.polyjitter.fictionaria.desktop.in:3
